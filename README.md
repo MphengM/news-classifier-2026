@@ -16,10 +16,10 @@ Modernising my 2018 CSIR news classification project with current Python tools
 - Document what has changed since last time
 
 ## Progress
-- [ x] Environment setup
-- [ x] Loading data with modern pandas
-- [ x] Interactive visualisations
-- [ x] Dashboard deployment
+- [x] Environment setup
+- [x] Loading data with modern pandas
+- [x] Interactive visualisations
+- [x] Dashboard deployment
 
 ## 2026 Dashboard
 **Data:** 84 news articles covering oceans- and coasts-related news events (illegal fishing, development, red tide, waste management, etc.)
