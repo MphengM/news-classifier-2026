@@ -39,5 +39,4 @@ see DEVLOG.md for detailed progress
 - Python 3.12
 - Pandas 3.0
 - Plotly 6.5
-- Scikit-learn
-- Streamlit (planned)
+- Streamlit
